@@ -18,4 +18,4 @@ restart arduino IDE
 
 Please see the example for details.
 
-[中文]()
+[中文](https://github.com/tomjamescn/NodeMCU_SHT31/blob/master/README-zh_CN.md)
